@@ -4,4 +4,12 @@
 
 .gallery-container {
   /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  justify-content: space-evenly;
+  
+}
+
+.gallery-item {
+  padding: 10px;
+  width: 20%;
+  height: 50%; 
 }
